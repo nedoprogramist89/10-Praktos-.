@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVqLYq0xMXycHN+GpEBL5ljDywNEt6B1k9WNGxJqulfU3iawpYOcwf5j0s06YtZ6qq+mpBc3zs+jzpmhqcB/kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дамир\\Source\\Repos\\Hydra\\Hydra\\Hydra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дамир\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

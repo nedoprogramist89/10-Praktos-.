@@ -1,0 +1,17 @@
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Hydra.exe
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Hydra.deps.json
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Hydra.runtimeconfig.json
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Hydra.dll
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Hydra.pdb
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.csproj.AssemblyReference.cache
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.AssemblyInfoInputs.cache
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.AssemblyInfo.cs
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.csproj.CopyComplete
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.dll
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\refint\Hydra.dll
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.pdb
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\Hydra.genruntimeconfig.cache
+C:\Users\Дамир\Source\Repos\Hydra\Hydra\obj\Debug\net6.0\ref\Hydra.dll
